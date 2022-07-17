@@ -1,0 +1,33 @@
+.form-update-group{
+    background-position: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 3px solid crimson;
+    padding: 8px;
+    
+}
+.form-update-group h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.form-control-filter {
+    outline: none;
+    border-radius: 3px;
+
+    border: 1px solid lightgray;
+    background-color: #fff;
+
+}
+
+.react-datepicker__input-container input{
+    outline: none;
+    border: 1px solid lightgray;
+    height: 35px !important;
+
+}
+
+.form-update-group .react-datepicker__input-container {
+    width: 100% ;
+    margin-left: 0px ;
+
+}

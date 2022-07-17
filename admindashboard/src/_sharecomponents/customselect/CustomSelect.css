@@ -1,0 +1,17 @@
+.cus-select{
+    position: relative;
+    display: flex;
+    width: fit-content;
+    justify-content: space-around;
+    /* margin-top: 20px; */
+    text-align: center;
+}
+
+.cus-select select{
+    outline: none;
+    border-radius: 3px;
+    padding: 5px 20px 5px 8px;
+    border: 1px solid lightgray;
+    background-color: #fff;
+}
+

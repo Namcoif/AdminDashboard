@@ -1,0 +1,15 @@
+.check-box {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 15px;
+    width: fit-content;
+}
+
+.check-box span{
+    margin-left: 5px;
+}
+.checkbox-checked{
+    color: crimson;
+}
+

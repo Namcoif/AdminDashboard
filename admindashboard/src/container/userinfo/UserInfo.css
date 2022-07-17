@@ -1,0 +1,20 @@
+.userInfo-container img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid rgb(240, 232, 234);
+    align-self: cente;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+.userInfo-container .user-head{
+    background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+    justify-content:center;
+}
